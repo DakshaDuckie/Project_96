@@ -1,0 +1,27 @@
+body{
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    padding-top:200px;
+}
+
+#login_area{
+    float:none;
+    background-color: #e2e2e2;
+    border-radius: 10px;
+    border: 10px solid gray;
+}
+
+#logo{
+    width:200px;
+    height:100px;
+}
+
+h1{
+    position: fixed;
+    top: 50px;
+    width: 100%;
+}
+#login-button{
+    border: 3px solid black;
+}
